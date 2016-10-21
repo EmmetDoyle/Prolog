@@ -1,3 +1,5 @@
+%Knowlege Base 5a from Learn Prolog Now Chapter 1
+
 wizard(ron). 
 hasWand(harry). 
 quidditchPlayer(harry). 
