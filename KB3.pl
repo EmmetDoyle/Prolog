@@ -1,3 +1,5 @@
+%Knowlege Base 3 from Learn Prolog Now Chapter 1
+
 happy(vincent).
 listens2Music(butch).
 playsAirGuitar(vincent):-
