@@ -1,3 +1,5 @@
+%Knowlege Base 2 from Learn Prolog Now Chapter 1
+
 happy(yolanda).
 listens2Music(mia).
 listens2Music(yolanda):- happy(yolanda).
